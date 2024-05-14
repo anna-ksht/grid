@@ -1,2 +1,2 @@
-# grid
+# grid Mondrian Project
 GRID training project
